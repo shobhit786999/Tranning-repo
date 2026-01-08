@@ -1,5 +1,6 @@
 a = 5;
 b=6;
+c = 7
 c = a+b
-print(c)
-print ("merge pr ")
+d = a*b*c
+print(d)
