@@ -1,4 +1,6 @@
 a = 5;
 b=6;
+c = 7
 c = a+b
-print(c)
+d = a*b*c
+print(d)
